@@ -1,0 +1,6 @@
+{
+  "name": "Deriv AI Trading Platform",
+  "description": "A highly-polished full-stack AI-powered trading terminal for the Deriv broker API with live charts, digit analysis matrices, no-code strategy visualizer, advanced bot engine, and Gemini-guided market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
